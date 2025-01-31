@@ -1,3 +1,6 @@
+## Cloning
+If you want an empty version of this repository, swap to the branch name 'Clone-this-Branch' and clone that.
+
 ## Naming Conventions
 
 Each solution file is named according to a specific convention that includes the platform, problem number, problem name, and the main algorithm or data structure used. Here are the conventions for each platform:
